@@ -1,5 +1,5 @@
-# Aula_Bootstrap
-Instrodução ao HTML5 e CSS3
-Utilizando Framework Bootstrap
+# DIO_aula_Bootstrap
+Instrodução ao HTML5 e CSS3.
+Utilizando Framework Bootstrap.
 
-Take Blip Web Developer
+Take Blip Web Developer.
